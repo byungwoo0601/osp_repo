@@ -1,5 +1,6 @@
 #!/bin/bash
 #calculater script B202200294 kim byung woo
+echo "projecj management in gitgub"
 arr=(`cat num1.txt` `cat num2.txt`)
 echo ${arr[0]}
 echo ${arr[1]}
